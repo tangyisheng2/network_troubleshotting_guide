@@ -1,2 +1,2 @@
-# network_troubleshotting_guide
-自家用网络故障排障指南
+# Initial page
+
